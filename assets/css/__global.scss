@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Oswald";
+    src: url(../fonts/Oswald/Oswald-Regular.ttf);
+}
+
+@font-face {
+    font-family: "open-sans";
+    src: url(../fonts/Open_Sans/OpenSans-Regular.ttf);
+}
+
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none !important;
+    touch-action: manipulation !important;
+    cursor: pointer;
+}
